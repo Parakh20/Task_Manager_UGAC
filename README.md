@@ -101,3 +101,5 @@ src/
 Feel free to open issues or submit pull requests for improvements!
 
 **Enjoy your modern, minimalist task manager!**
+
+Another Task Manager usign html css and java script only - https://parakh20.github.io/todo_manager/
