@@ -2,6 +2,8 @@
 A modern, minimalist, and fully-featured Kanban-style task manager built with Next.js, React, and Tailwind CSS.  
 Supports drag-and-drop, calendar integration, dark mode, and more.
 
+WEBSITE LINK - https://task-manager-ugac.vercel.app/
+
 ## 🚀 Setup Instructions
 
 1. **Clone the repository**
